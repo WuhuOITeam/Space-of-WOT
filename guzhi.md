@@ -22,4 +22,6 @@ $$S=2e-kp+2t$$
 
 ## 刑法
 
-施工中.
+[link](https://github.com/mahaoming2022/WOT/blob/about/shangfa.md)
+
+管理员会根据情况扣除估值.
