@@ -8,13 +8,13 @@
 
 团队估值 $S$ 如下:
 
-练习:[作业完成情况](https://www.luogu.com.cn/training/296236) 记作 $e$.
+练习:[作业完成情况](https://www.luogu.com.cn/training/296236) 记作 $exersize$.
 
 作弊:作弊次数,记作 $k$ ,作弊程度记作 $p$ 是主观值.
 
-团队贡献:贡献约等于每月贡献次数与程度的积(主观值),记作 $t$ .
+团队贡献:贡献约等于每月贡献次数与程度的积(主观值),记作 $team$ .
 
-$$S=2e-kp+2t$$
+$$S ≐ 2exersize-kp+2\*team$$
 
 ## 估值有什么用?
 
@@ -25,3 +25,6 @@ $$S=2e-kp+2t$$
 [link](https://github.com/mahaoming2022/WOT/blob/about/shangfa.md)
 
 管理员会根据情况扣除估值.
+管理员会酌情增加估值(在```team```栏)
+
+不要催我更新估值,我也要咕咕咕(逃
